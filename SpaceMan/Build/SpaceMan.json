@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "SpaceMan.data.unityweb",
+"asmCodeUrl": "SpaceMan.asm.code.unityweb",
+"asmMemoryUrl": "SpaceMan.asm.memory.unityweb",
+"asmFrameworkUrl": "SpaceMan.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
